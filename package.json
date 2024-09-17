@@ -1,0 +1,17 @@
+{
+  "name": "local-rag",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "chunk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.12.0"
+  }
+}
