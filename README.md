@@ -1,6 +1,5 @@
 # Local RAG with Ollama
-
-See presentation:  https://youtu.be/lzUuUNaJCkk
+[![Watch the video](https://img.youtube.com/vi/lzUuUNaJCkk/maxresdefault.jpg)](https://youtu.be/lzUuUNaJCkk)
 
 This project demonstrates how to build a local Retrieval Augmented Generation (RAG) system using Ollama. Ollama is an open-source AI model host that can be used for a variety of tasks, including text generation and creating embeddings.
 
